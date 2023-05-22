@@ -1,6 +1,6 @@
 # Usage
 
-Copy the script in your user config folder. More information in Ardour's manual: https://manual.ardour.org/lua-scripting/
+Copy the script in your user config folder. More information in [Ardour's manual](https://manual.ardour.org/lua-scripting/)
 
 For Ardour 7:
 - GNU/Linux: ```$HOME/.config/ardour7/scripts/``` 
